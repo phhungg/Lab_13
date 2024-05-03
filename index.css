@@ -1,0 +1,21 @@
+.bg-img1 {
+  background-color: #000;
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  background-image: url("Images/anh-banner-xe-hyundai-elantra-hyundaiphamvandong.png");
+}
+.bg-img2 {
+  background-color: #000;
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  background-image: url("Images/banner-xe-o-to.jpg");
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  width: 100%;
+  height: 500px;
+  background-image: url("Images/banner.png");
+}
